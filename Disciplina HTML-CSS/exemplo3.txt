@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+
+ <head>
+  <title>Site do exmplo 3</title>
+ <head>
+
+ <body>
+  <p style="padding:40px;border:2px solid red;">Aprendendo novas técnicas do CSS</p>
+ </body>
+
+</html>
